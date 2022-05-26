@@ -8,7 +8,7 @@ Let's go! Here are some useful links to get you started:
 
 - [Puroto](https://puroto.net) - the project homepage
 - [Discord](https://discord.puroto.net) - Join our server
-- [Blog](https://blog.puroto.net/blog/introduction/en) - Get the latest news on Puroto
+- [Blog](https://blog.puroto.net) - Get the latest news on Puroto
 - [Twitter](https://twitter.com/PurotoApp) - Follow us for more info
 
 ## Be a part of the project
