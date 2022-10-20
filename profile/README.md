@@ -1,3 +1,11 @@
+> The project has ended. Thank you for all the support! You might want to check out these projects:
+
+> Sparrow: https://discord.gg/QJqdAU5T5Y, https://github.com/Project-Sparrow
+
+> MyFursona: https://www.myfursona.art, https://github.com/MyFursona-Project
+
+---
+
 # Puroto
 
 > We are building a future social network for furries.
